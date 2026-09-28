@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "mixed-hailing-taxi-sim: network simulation of mixed-hailing taxi services with human-driven and autonomous taxis"
+version: 1.0.0
+date-released: 2026-09-28
+license: MIT
+repository-code: "https://github.com/hc-parkkk/mixed-hailing-taxi-sim"
+abstract: >-
+  A time-driven network simulation of taxi services in which passengers request rides by
+  street-hailing or e-hailing and the fleet mixes human-driven taxis (HTs) and autonomous
+  taxis (ATs) that serve e-hailing only.
+keywords:
+  - mixed-hailing
+  - heterogeneous fleet
+  - e-hailing
+  - autonomous taxis
+  - simulation
+authors:
+  - given-names: Hyuncheol
+    family-names: Park
+    affiliation: Korea University
+  - given-names: Jinwoo
+    family-names: Lee
+    affiliation: Korea Advanced Institute of Science and Technology (KAIST)
+  - given-names: Hyun
+    family-names: Park
+    affiliation: Korea University
+  - given-names: Seungmo
+    family-names: Kang
+    affiliation: Korea University
